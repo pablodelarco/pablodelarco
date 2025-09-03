@@ -8,9 +8,8 @@ Graduated with a double MSc in Computer & Communication Engineering from EURECOM
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
-* 🧠  I'm learning AWS, Docker, Kubernetes, Terraform, Jenkins
-* 🤝  I'm open to collaborating on IoT, Cloud and AI
-* ⚡  I play acoustic and Spanish guitar, padel and football.
+* 🧠  Experienced in Docker, Kubernetes and DevOps/Cloud automation
+* ⚡  I play acoustic and Spanish guitar, padel and football
 
 ### Skills
 
