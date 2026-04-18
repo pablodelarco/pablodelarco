@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud & DevOps Innovation Engineer | AI Agent Architect
 -----------------------------------------------------------------
 
-I build cloud-native infrastructure and AI agent tooling — from a K3s homelab running GitOps in production, to OpenNebula marketplace appliances, MCP servers, and contract-first agent frameworks for Claude Code. Double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), with a background in IoT and distributed systems.
+I build cloud-native infra and AI agent tooling — K3s + GitOps homelab, OpenNebula appliances, MCP servers, and Claude Code agent frameworks. Double MSc EURECOM × Aalto.
 
 * 🌍  Based in Spain
 * ✉️  Reach me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
