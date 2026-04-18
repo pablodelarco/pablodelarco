@@ -1,15 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo del Arco
 ======================================================================================================================================
 
-Cloud & DevOps Innovation Engineer | AI Agent Architect 
+Cloud & DevOps Innovation Engineer | AI Agent Architect
 -----------------------------------------------------------------
 
-Graduated with a double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), specializing in IoT Systems and Cloud.
+I build cloud-native infrastructure and AI agent tooling — from a K3s homelab running GitOps in production, to OpenNebula marketplace appliances, MCP servers, and contract-first agent frameworks for Claude Code. Double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), with a background in IoT and distributed systems.
 
-* 🌍  I'm based in Spain
-* ✉️  You can contact me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
-* 🧠  Experienced in Docker, Kubernetes and DevOps/Cloud automation
-* ⚡  I play acoustic and Spanish guitar, padel and football
+* 🌍  Based in Spain
+* ✉️  Reach me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
+* ☁️  Shipping with Kubernetes, Helm, GitOps and OpenNebula
+* 🤖  Building AI agents, MCP integrations and sovereign-cloud AI appliances
+* 🧪  Currently exploring RISC-V, federated learning and continuous compliance
+* ⚡  Off-keyboard: acoustic & Spanish guitar, padel and football
 
 ### Skills
 
