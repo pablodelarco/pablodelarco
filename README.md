@@ -17,7 +17,11 @@ I build cloud-native infra and AI agent tooling — K3s + GitOps homelab, OpenNe
 
 
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash,py,ts,nodejs,react,githubactions,terraform,ansible,aws,git" alt="Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash,py,githubactions,terraform,ansible,git" alt="Skills" /></a>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+<img src="https://img.shields.io/badge/OpenNebula-0098C3?style=for-the-badge&logo=opennebula&logoColor=white" alt="OpenNebula" />
 </p>
 
 
