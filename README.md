@@ -9,10 +9,18 @@ I build cloud-native infra and AI agent tooling — K3s + GitOps homelab, OpenNe
 * 🌍  Based in Spain
 * ✉️  Reach me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
 * ☁️  Shipping with Kubernetes, Helm, GitOps and OpenNebula
-* 🤖  Building AI agents, MCP integrations and sovereign-cloud AI appliances
+* 🤖  Built [finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp); currently building the OpenNebula MCP
+* 🚀  Creator of [Arco Rooms](https://github.com/pablodelarco/arco_rooms) and [agentbloc](https://github.com/pablodelarco/agentbloc)
 * 🧪  Currently exploring RISC-V, federated learning and continuous compliance
 * ✍️  Writing about cloud, AI agents and DevOps on [Medium](https://medium.com/@pdelarco)
 * ⚡  Off-keyboard: acoustic & Spanish guitar, padel and football
+
+### Featured projects
+
+- **[finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp)** — MCP server for Finetwork, a Spanish telecom. Lets any MCP-compatible AI client query your account: invoices, services, profile and billing.
+- **OpenNebula MCP** *(in development)* — MCP server for OpenNebula. Drive VMs, hosts, datastores and marketplace appliances from natural language.
+- **[Arco Rooms](https://github.com/pablodelarco/arco_rooms)** — Open-source rental management app for landlords. Manages tenants, rooms and payments on a cloud-native, GitOps-driven stack.
+- **[agentbloc](https://github.com/pablodelarco/agentbloc)** — Interview-driven AI agent team designer for Claude Code. Turns a manual business workflow into a portable, contract-first build spec any AI coding agent can execute.
 
 ### Skills
 
