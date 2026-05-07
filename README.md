@@ -1,14 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo del Arco
 ======================================================================================================================================
 
-Cloud & DevOps Engineer | AI Agent Architect
+AI Agent Architect | Cloud & DevOps Engineer
 -----------------------------------------------------------------
 
-I build cloud-native infrastructure and AI agent tooling. Double MSc EURECOM × Aalto.
+I build AI agents and the cloud-native infrastructure to run them on. Double MSc EURECOM × Aalto.
 
 * 🌍  Based in Spain
 * ✉️  [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
-* ☁️  Stack: Kubernetes, Helm, GitOps, OpenNebula. Exploring RISC-V and federated learning.
+* 🤖  Building AI agents, MCP servers and Claude Code agent teams
+* 🛠️  Working with Claude Agent SDK, MCP, LangGraph and the Anthropic API
+* ☁️  Cloud-native stack: Kubernetes, GitOps, OpenNebula. Exploring RISC-V and federated learning.
 * ✍️  Writing on [Medium](https://medium.com/@pdelarco)
 * ⚡  Off-keyboard: acoustic & Spanish guitar, padel and football
 
