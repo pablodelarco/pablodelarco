@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Agent Architect | Cloud & DevOps Engineer
 -----------------------------------------------------------------
 
-I build AI agents and the cloud-native infrastructure to run them on. Double MSc EURECOM × Aalto.
+I build AI agents and the cloud-native infrastructure to run them on. Double MSc EURECOM × Aalto. Ex-Nokia
 
 * 🌍  Based in Spain
 * ✉️  [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
