@@ -1,25 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo del Arco
 ======================================================================================================================================
 
-Cloud & DevOps Innovation Engineer | AI Agent Architect
+Cloud & DevOps Engineer | AI Agent Architect
 -----------------------------------------------------------------
 
-I build cloud-native infra and AI agent tooling — K3s + GitOps homelab, OpenNebula appliances, MCP servers, and Claude Code agent frameworks. Double MSc EURECOM × Aalto.
+I build cloud-native infrastructure and AI agent tooling. Double MSc EURECOM × Aalto.
 
 * 🌍  Based in Spain
-* ✉️  Reach me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
-* ☁️  Shipping with Kubernetes, Helm, GitOps and OpenNebula
-* 🤖  Built [finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp); currently building the OpenNebula MCP
-* 🚀  Creator of [Arco Rooms](https://github.com/pablodelarco/arco_rooms) and [agentbloc](https://github.com/pablodelarco/agentbloc)
-* 🧪  Currently exploring RISC-V, federated learning and continuous compliance
-* ✍️  Writing about cloud, AI agents and DevOps on [Medium](https://medium.com/@pdelarco)
+* ✉️  [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
+* ☁️  Stack: Kubernetes, Helm, GitOps, OpenNebula. Exploring RISC-V and federated learning.
+* ✍️  Writing on [Medium](https://medium.com/@pdelarco)
 * ⚡  Off-keyboard: acoustic & Spanish guitar, padel and football
 
 ### Featured projects
 
-- **[finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp)** — MCP server for Finetwork, a Spanish telecom. Lets any MCP-compatible AI client query your account: invoices, services, profile and billing.
-- **[Arco Rooms](https://github.com/pablodelarco/arco_rooms)** — Open-source rental management app for landlords. Manages tenants, rooms and payments on a cloud-native, GitOps-driven stack.
-- **[agentbloc](https://github.com/pablodelarco/agentbloc)** — Interview-driven AI agent team designer for Claude Code. Turns a manual business workflow into a portable, contract-first build spec any AI coding agent can execute.
+- **[finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp)** — MCP server for Finetwork, a Spanish telecom. Query invoices, services and billing from any MCP-compatible AI client.
+- **OpenNebula MCP** *(in development)* — MCP server for OpenNebula. Drive VMs, hosts and datastores from natural language.
+- **[Arco Rooms](https://github.com/pablodelarco/arco_rooms)** — Open-source rental management app. Tenants, rooms and payments on a cloud-native, GitOps-driven stack.
+- **[agentbloc](https://github.com/pablodelarco/agentbloc)** — Interview-driven AI agent team designer for Claude Code. Turns a manual workflow into a portable build spec any AI coding agent can execute.
 
 ### Skills
 
