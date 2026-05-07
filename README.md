@@ -6,12 +6,13 @@ Cloud & DevOps Innovation Engineer | AI Agent Architect
 
 I build cloud-native infra and AI agent tooling — K3s + GitOps homelab, OpenNebula appliances, MCP servers, and Claude Code agent frameworks. Double MSc EURECOM × Aalto.
 
-* 🌍  Based in Spain
-* ✉️  Reach me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
-* ☁️  Shipping with Kubernetes, Helm, GitOps and OpenNebula
-* 🤖  Building AI agents, MCP integrations and sovereign-cloud AI appliances
-* 🧪  Currently exploring RISC-V, federated learning and continuous compliance
-* ⚡  Off-keyboard: acoustic & Spanish guitar, padel and football
+* 🌍  Based in Spain
+* ✉️  Reach me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
+* ☁️  Shipping with Kubernetes, Helm, GitOps and OpenNebula
+* 🤖  Building AI agents, MCP integrations and sovereign-cloud AI appliances
+* 🧪  Currently exploring RISC-V, federated learning and continuous compliance
+* ✍️  Writing about cloud, AI agents and DevOps on [Medium](https://medium.com/@pdelarco)
+* ⚡  Off-keyboard: acoustic & Spanish guitar, padel and football
 
 ### Skills
 
@@ -27,7 +28,7 @@ I build cloud-native infra and AI agent tooling — K3s + GitOps homelab, OpenNe
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/pablo-del-arco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/pablo-del-arco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://medium.com/@pdelarco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Support Me
 
