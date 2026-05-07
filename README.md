@@ -17,7 +17,6 @@ I build AI agents and the cloud-native infrastructure to run them on. Double MSc
 ### Featured projects
 
 - **[finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp)** — MCP server for Finetwork, a Spanish telecom. Query invoices, services and billing from any MCP-compatible AI client.
-- **OpenNebula MCP** *(in development)* — MCP server for OpenNebula. Drive VMs, hosts and datastores from natural language.
 - **[Arco Rooms](https://github.com/pablodelarco/arco_rooms)** — Open-source rental management app. Tenants, rooms and payments on a cloud-native, GitOps-driven stack.
 - **[agentbloc](https://github.com/pablodelarco/agentbloc)** — Interview-driven AI agent team designer for Claude Code. Turns a manual workflow into a portable build spec any AI coding agent can execute.
 
