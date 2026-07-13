@@ -2,7 +2,7 @@
 
 **Pablo del Arco is an AI Systems Engineer: he builds AI agents, MCP servers and RAG systems, plus the Kubernetes infrastructure they run on.**
 
-He works at [OpenNebula Systems](https://opennebula.io), where he shipped the EuroCopilot AI stack across 5 European cloud zones and now leads the EU research projects EMERALD and CASANDRA.
+He works as a Technical Project Manager at [OpenNebula Systems](https://opennebula.io), where he shipped the EuroCopilot AI stack across 5 European cloud zones and now leads the EU research projects EMERALD and CASANDRA.
 
 On the side, he automates real businesses with AI agents: a [9-property rental business](https://pablodelarco.com/case-studies/arco-rooms) runs unattended on a Raspberry Pi. He also writes about Kubernetes and AI on [Medium](https://pdelarco.medium.com/), where his homelab series was featured by the Cilium community.
 
