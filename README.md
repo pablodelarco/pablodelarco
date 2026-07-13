@@ -1,45 +1,44 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo del Arco
-======================================================================================================================================
+# 👋 Hi, I'm Pablo
 
-AI Cloud Engineer
------------------------------------------------------------------
+**Pablo del Arco is an AI Systems Engineer: he builds AI agents, MCP servers and RAG systems, plus the Kubernetes infrastructure they run on.**
 
-I build AI agents and the cloud-native infrastructure to run them on. Double MSc EURECOM × Aalto. Ex-Nokia
+He works at [OpenNebula Systems](https://opennebula.io), where he shipped the EuroCopilot AI stack across 5 European cloud zones and now leads the EU research projects EMERALD and CASANDRA.
 
-* 🌍  Based in Spain
-* ✉️  [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
-* 🤖  Building AI agents, MCP servers and Claude Code agent teams
-* 🛠️  Working with Claude Agent SDK, MCP, LangGraph and the Anthropic API
-* ☁️  Cloud-native stack: Kubernetes, GitOps, OpenNebula. Exploring RISC-V and federated learning.
-* ✍️  Writing on [Medium](https://medium.com/@pdelarco)
-* ⚡  Off-keyboard: acoustic & Spanish guitar, padel and football
+On the side, he automates real businesses with AI agents: a [9-property rental business](https://pablodelarco.com/case-studies/arco-rooms) runs unattended on a Raspberry Pi. He also writes about Kubernetes and AI on [Medium](https://pdelarco.medium.com/), where his homelab series was featured by the Cilium community.
 
-### Featured projects
+[**Learn more on pablodelarco.com →**](https://pablodelarco.com)
 
-- **[finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp)** — MCP server for Finetwork, a Spanish telecom. Query invoices, services and billing from any MCP-compatible AI client.
-- **[Arco Rooms](https://github.com/pablodelarco/arco_rooms)** — Open-source rental management app. Tenants, rooms and payments on a cloud-native, GitOps-driven stack.
-- **[agentbloc](https://github.com/pablodelarco/agentbloc)** — Interview-driven AI agent team designer for Claude Code. Turns a manual workflow into a portable build spec any AI coding agent can execute.
+<details>
+  <summary><code>README</code> · <em>A bit more about me</em></summary>
 
-### Skills
+## About me
 
+- Based in Valencia, Spain. Before that: Helsinki as a 5G engineer at Nokia, and a double MSc at EURECOM (France) and Aalto University (Finland).
+- Everything I ship gets tested on my [two-node Kubernetes homelab](https://github.com/pablodelarco/kubernetes-homelab) first: 25+ self-hosted apps run entirely through GitOps.
+- Certified: OpenNebula Expert, plus Claude Code in Action and Model Context Protocol: Advanced Topics, both by Anthropic.
+- Off keyboard: acoustic and Spanish guitar, padel and football.
 
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash,py,githubactions,terraform,ansible,git" alt="Skills" /></a>
-</p>
-<p align="left">
-<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-<img src="https://img.shields.io/badge/OpenNebula-0098C3?style=for-the-badge&logo=opennebula&logoColor=white" alt="OpenNebula" />
-</p>
+## How I work
 
+- Every project starts in **Claude Code**, and it starts with a spec, not with code: a structured interview skill turns the idea into a written design doc first.
+- The same skill set enforces best practices from day one in every repo: plan before build, independent reviewer agents that grade each change, and a verifier that has to pass before anything ships.
+- Nothing reaches production untested: it runs on my own Kubernetes cluster first, documented and monitored.
 
-### Socials
+## Featured projects
 
-<p align="left"> <a href="https://www.linkedin.com/in/pablo-del-arco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://medium.com/@pdelarco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+- [kubernetes-homelab](https://github.com/pablodelarco/kubernetes-homelab): GitOps homelab on K3s with ArgoCD, Cilium and Longhorn.
+- [finetwork-mcp](https://github.com/pablodelarco/finetwork-mcp): MCP server for a Spanish telecom. Query invoices, services and billing from Claude Code or any MCP client.
+- [opennebula-helm](https://github.com/pablodelarco/opennebula-helm): production-ready Helm chart for OpenNebula.
 
-### Support Me
+## Writing and talks
 
-<ul style="list-style-type: none; margin: 0;">
+- 12 guides on Kubernetes, AI automation and self-hosting, all readable at [pablodelarco.com/writing](https://pablodelarco.com/writing).
+- Hands-on reviews of Claude Code skills at [pablodelarco.com/claude-skills](https://pablodelarco.com/claude-skills).
+- Talks: FOSDEM 2026, foss-north 2026, NexusForum 2025.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/pablodelarco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+## Contact
 
-</ul>
+- Email: [hello@pablodelarco.com](mailto:hello@pablodelarco.com)
+- [LinkedIn](https://www.linkedin.com/in/pablo-del-arco/) (4k+ followers) and [Medium](https://pdelarco.medium.com/) (350+ followers)
+
+</details>
