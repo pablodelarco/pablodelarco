@@ -24,7 +24,6 @@ I join these three areas by building the infrastructure, automating deployment a
 | [OpenNebula Helm](https://github.com/pablodelarco/opennebula-helm) | A community-maintained Helm chart and container image for deploying the OpenNebula front-end on Kubernetes. |
 | [EuroCopilot](https://github.com/pablodelarco/one-apps-eurocopilot) | A self-hosted AI coding service with an OpenAI-compatible API and optional load balancing across inference instances. |
 | [Finetwork MCP](https://github.com/pablodelarco/finetwork-mcp) | An independent MCP server with read-only tools that let AI assistants query telecom invoices, services and billing. |
-| [Hygraph Agent Guardrails](https://github.com/pablodelarco/hygraph-agent-guardrails) | An automated agent workflow with restricted permissions, change validation and human-controlled publication. |
 
 ## AI automation in practice
 
