@@ -6,7 +6,7 @@ At [OpenNebula Systems](https://opennebula.io), I combine hands-on engineering w
 
 Outside work, I build business automations and maintain a Kubernetes homelab. I also share what I learn through technical articles and conference talks.
 
-[Website](https://pablodelarco.com) · [Writing](https://pablodelarco.com/writing) · [LinkedIn](https://www.linkedin.com/in/pablo-del-arco/) · [Contact](mailto:hello@pablodelarco.com)
+[Website](https://pablodelarco.com) · [Medium blog](https://pdelarco.medium.com/) · [LinkedIn](https://www.linkedin.com/in/pablo-del-arco/) · [Contact](mailto:hello@pablodelarco.com)
 
 ## What I work on
 
