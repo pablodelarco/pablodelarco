@@ -10,7 +10,7 @@ Outside work, I build business automations and maintain a Kubernetes homelab. I 
 
 ## What I work on
 
-- **Cloud & Kubernetes.** Deploying and operating infrastructure with OpenNebula, Kubernetes, Helm and container technologies.
+- **Cloud & Kubernetes.** Deploying and operating infrastructure with OpenNebula, Kubernetes, Docker and virtualization technologies.
 - **DevOps.** GitOps, CI/CD pipelines, infrastructure automation, monitoring and reproducible deployments.
 - **AI systems.** Agents, MCP integrations, RAG systems and self-hosted inference connected to real workflows.
 
