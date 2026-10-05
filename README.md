@@ -18,6 +18,8 @@ Outside work, I build business automations and maintain a Kubernetes homelab. I 
 
 I join these three areas by building the infrastructure, automating deployment and connecting AI systems to the tools and data they need.
 
+<img src="assets/stack.svg" height="44" alt="OpenNebula, Kubernetes, Docker, Linux, Argo CD, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Python, Claude Code and MCP">
+
 ---
 
 ## 🚀 Projects
