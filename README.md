@@ -25,22 +25,6 @@ I join these three areas by building the infrastructure, automating deployment a
 | [EuroCopilot](https://github.com/pablodelarco/one-apps-eurocopilot) | A self-hosted AI coding service with an OpenAI-compatible API and optional load balancing across inference instances. |
 | [Finetwork MCP](https://github.com/pablodelarco/finetwork-mcp) | An independent MCP server with read-only tools that let AI assistants query telecom invoices, services and billing. |
 
-## AI automation in practice
-
-[**Arco Rooms, automating a nine-property rental business →**](https://pablodelarco.com/case-studies/arco-rooms)
-
-I built a platform that processes invoices, reconciles rent payments, updates the owner's ledger and sends Telegram notifications when something needs attention.
-
-Routine tasks run as deterministic pipelines, and AI handles only the steps that need judgment, such as finding signed contracts in email threads and writing the monthly missing-rent report. Payments that a rule cannot safely match, and any payment of 100 euros or more, go to a human review queue.
-
-## How I work
-
-I start with the workflow and requirements, then choose the infrastructure and tools around them.
-
-My Kubernetes homelab is where I test deployments, integrations and operational changes. I use GitOps and CI/CD to make deployments repeatable, document how systems run and add monitoring to make failures visible.
-
-For AI workflows, I define what an agent can access, what it can change and when it needs human review.
-
 ## Writing & talks
 
 I write practical guides on Kubernetes, cloud infrastructure, DevOps and AI automation, based on projects I build and operate.
