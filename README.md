@@ -8,6 +8,8 @@ Outside work, I build business automations and maintain a Kubernetes homelab. I 
 
 [Website](https://pablodelarco.com) · [Medium blog](https://pdelarco.medium.com/) · [LinkedIn](https://www.linkedin.com/in/pablo-del-arco/) · [Contact](mailto:hello@pablodelarco.com)
 
+<img src="assets/stack.svg" height="44" alt="OpenNebula, Kubernetes, Docker, Linux, Argo CD, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Python, Claude Code and MCP">
+
 ---
 
 ## 🛠️ What I work on
@@ -17,8 +19,6 @@ Outside work, I build business automations and maintain a Kubernetes homelab. I 
 - **AI systems.** Agents, MCP integrations, RAG systems and self-hosted inference connected to real workflows.
 
 I join these three areas by building the infrastructure, automating deployment and connecting AI systems to the tools and data they need.
-
-<img src="assets/stack.svg" height="44" alt="OpenNebula, Kubernetes, Docker, Linux, Argo CD, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Python, Claude Code and MCP">
 
 ---
 
