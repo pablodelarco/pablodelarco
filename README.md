@@ -1,6 +1,10 @@
 # Hey, I'm Pablo 👋
 
-AI Cloud Engineer at **[OpenNebula Systems](https://opennebula.io)**, where I deploy OpenNebula in EuroHPC's national **AI Factories**, such as NLAIF (Netherlands), AI:AT (Austria) and the BSC AI Factory (Spain). I also coordinate European cloud and AI projects with research and industry partners. Outside work, I build business automations and maintain a Kubernetes homelab.
+**AI Cloud Engineer working across cloud infrastructure, DevOps and AI agents.**
+
+At [OpenNebula Systems](https://opennebula.io), I combine hands-on engineering with technical project coordination across European cloud and AI projects. I deploy OpenNebula in EuroHPC's national AI Factories, such as NLAIF (Netherlands), AI:AT (Austria) and the BSC AI Factory (Spain). I work on Kubernetes integrations, self-hosted AI services and cloud deployments with research and industry partners.
+
+Outside work, I build business automations and maintain a Kubernetes homelab. I also share what I learn through technical articles and conference talks.
 
 🌐 [pablodelarco.com](https://pablodelarco.com) · ✍️ [Medium blog](https://pdelarco.medium.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/pablo-del-arco/) · 📫 [hello@pablodelarco.com](mailto:hello@pablodelarco.com)
 
